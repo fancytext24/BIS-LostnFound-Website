@@ -353,4 +353,4 @@ MigrationBackup/
 venv/
 
 # Ignore the database
-*/sqlite3
+db.sqlite3

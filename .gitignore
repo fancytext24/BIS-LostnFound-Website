@@ -255,6 +255,7 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
+*.sqlite3
 
 # Business Intelligence projects
 *.rdl.data
@@ -351,6 +352,3 @@ MigrationBackup/
 
 # Ignore the venv
 venv/
-
-# Ignore the database
-db.sqlite3

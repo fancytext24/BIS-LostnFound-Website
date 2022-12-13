@@ -1,2 +1,2 @@
-categories = ('EL', 'Electronics'), ('SH', 'Shirts'), ('PS', 'Pants/Shorts'), ('FW', 'Footware'), ('ST','Stationaries'), ('BG','Bags'), ('SHG', 'Scarfs, hats and gloves'), ('LB', 'Lunch Boxes'), ('WB', 'Water Bottles'), ('VB', 'Valuables'), ('OTH', 'Others')
+categories = ('EL', 'Electronics'), ('SH', 'Shirts'), ('PS', 'Pants/Shorts'), ('FW', 'Footware'), ('ST','Stationaries'), ('BG','Bags'), ('SG', 'Scarfs, hats and gloves'), ('LB', 'Lunch Boxes'), ('WB', 'Water Bottles'), ('VB', 'Valuables'), ('OT', 'Others')
 user = ['id', 'name', 'mail']

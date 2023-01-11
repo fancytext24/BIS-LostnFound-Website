@@ -3,15 +3,15 @@ This is the development version for the bis lost and found website. Expect thing
 
 # Instructions to run the project 
 
-Install Python 3.11 from the official website (https://python.org/)
-Install Git (https://git-scm.com/)
+<br>Install Python 3.11 from the official website (https://python.org/)<br/>
+<br>Install Git (https://git-scm.com/)<br/>
 
 Then run the following commands 
-    • `git clone https://github.com/fancytext24/BIS-LostnFound-Website`
-    • `pip install virtualenv`
-    • `cd BIS-LostnFound-Website`
-    • `virtualenv venv` (replace "venv" with the name you want for your virtual environment)
-    • `venv\Scripts\activate`
-    • `pip install -r requirements.txt`
-    • `python manage.py runserver`
-    • Now enter `http://127.0.0.1:8000/` in your browser to visit the site
+    <br>• `git clone https://github.com/fancytext24/BIS-LostnFound-Website`<br/>
+    <br>• `pip install virtualenv`<br/>
+    <br>• `cd BIS-LostnFound-Website`<br/>
+    <br>• `virtualenv venv` (replace "venv" with the name you want for your virtual environment)<br/>
+    <br>• `venv\Scripts\activate`<br/>
+    <br>• `pip install -r requirements.txt`<br/>
+    <br>• `python manage.py runserver`<br/>
+    <br>• Now enter `http://127.0.0.1:8000/` in your browser to visit the site<br/>
